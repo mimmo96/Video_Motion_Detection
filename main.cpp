@@ -12,8 +12,7 @@
 using namespace std;
 using namespace cv;
 
-//#define videoname "video/motion.mp4"
-#define videoname "video/4k.mp4"
+#define videoname "video/motion.mp4"
 
 #include "src/utils/Functions.cpp"
 #include "src/utils/utimer.cpp"
