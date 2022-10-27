@@ -1,4 +1,4 @@
-# Video_Motion_Detection
+# Video Motion Detection
 
 
 There are two ways to execute the Project:
